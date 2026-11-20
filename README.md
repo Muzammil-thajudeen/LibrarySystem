@@ -37,7 +37,8 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
-<img width="1917" height="1047" alt="exep2" src="https://github.com/user-attachments/assets/e6b5c514-e776-4161-b3a2-4cfc007f97f0" />
+<img width="1238" height="949" alt="exep2" src="https://github.com/user-attachments/assets/0952fb10-26d4-4822-a81c-730f62e3a8f9" />
+
 
 
 
@@ -100,8 +101,8 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+<img width="1243" height="934" alt="image" src="https://github.com/user-attachments/assets/0ca55f22-c97a-41ae-9a0f-8a7ed11ca512" />
 
-<img width="1917" height="1043" alt="exep2_act" src="https://github.com/user-attachments/assets/b6ecfbd1-fed1-4f65-a1b9-af9c15ae6217" />
 
 
 
