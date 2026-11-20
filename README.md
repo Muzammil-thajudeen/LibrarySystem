@@ -60,7 +60,8 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
-<img width="932" height="737" alt="image" src="https://github.com/user-attachments/assets/3c3d6475-549f-4c26-8b09-60783e68f96c" />
+<img width="1084" height="861" alt="image" src="https://github.com/user-attachments/assets/5b017ee1-eea4-4200-9838-592e3c8c49b9" />
+
 
 
 
@@ -70,7 +71,8 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-<img width="897" height="617" alt="image" src="https://github.com/user-attachments/assets/ea837f32-255e-4417-8b22-9301b3573029" />
+<img width="1058" height="714" alt="image" src="https://github.com/user-attachments/assets/69a41609-a0d4-4c9a-a575-a5b273f939c7" />
+
 
 
 
@@ -83,9 +85,8 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1061" height="794" alt="image" src="https://github.com/user-attachments/assets/e7c1b887-5289-4cae-a8c1-07af694e0421" />
 
-
-<img width="908" height="681" alt="image" src="https://github.com/user-attachments/assets/ced56805-2a64-4c69-9136-98df2f98acad" />
 
 
 
@@ -124,8 +125,8 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1089" height="862" alt="image" src="https://github.com/user-attachments/assets/f1ea7972-cb15-4a66-a044-8a7ec1bac0af" />
 
-<img width="937" height="725" alt="image" src="https://github.com/user-attachments/assets/65ae0825-ff5b-4bef-b396-c76e668215cf" />
 
 
 
